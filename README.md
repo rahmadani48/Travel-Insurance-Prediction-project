@@ -43,5 +43,5 @@ What we have done on this stage:
 # Stage 4 - Final Presentation Material
 Based on our project's result, out best model is CatBoost with accuracy score 77% and precision score 77%. Our model performance could increase coupon acceptance rate and B/C ratio by 0.61x (from 1.7x to 2.31x).
 
-NOTE
+# NOTE
 We presented the result of each stage progress in Bahasa
